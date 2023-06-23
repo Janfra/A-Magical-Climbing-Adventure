@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a392a3ae696e9549b06a98db7260b18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - caster: {instanceID: 0}
+  - stats: {fileID: 11400000, guid: 7ab1f6f39182e2349bb51f07296cb251, type: 2}
+  - dashLogic: {fileID: 11400000, guid: bc0d6e97d36c0d14b9f0e45904a2447a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

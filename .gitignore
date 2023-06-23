@@ -14,3 +14,10 @@ server.pid
 *.eml
 /dist/
 .cache
+/.plastic
+/.vs
+.vsconfig
+/Library
+obj
+/ProjectSettings
+/UserSettings

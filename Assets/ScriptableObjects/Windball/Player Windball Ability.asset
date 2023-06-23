@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8974fe2228a32a441aca960746b75cd2, type: 3}
+  m_Name: Player Windball Ability
+  m_EditorClassIdentifier: 
+  caster: {fileID: 0}
+  abilityCooldownTimer:
+    targetTime: 1
+  stats: {fileID: 11400000, guid: 8ec816e5ab2db5a4e948b288c927aee7, type: 2}
+  windballLogic: {fileID: 11400000, guid: b4f15ce0cc4bcbe4b9b9857c61e389a5, type: 2}
